@@ -148,5 +148,8 @@ public class EmployeeController {
 
      
 }
+		public void hi() {
+		     System.out.println("hello");
+		}
 }
 
